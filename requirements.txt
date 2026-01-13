@@ -2,5 +2,9 @@ flask
 python-dotenv
 google-generativeai
 pymupdf
+reportlab
+werkzeug
+
+
 
 
