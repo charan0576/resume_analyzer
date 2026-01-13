@@ -1,0 +1,59 @@
+NAGA CHARAN DONGA
+Narsapur, Andhra Pradesh | +91 938176488 | charandonga9010@gmail.com | [GitHub Link] | [LinkedIn Link]
+
+SUMMARY
+Innovative AI/ML Developer and Full Stack Engineer with a strong background in MERN, Python, and Deep Learning. Experienced in the end-to-end ML lifecycle: from data preprocessing and model training to deployment via RESTful APIs. Successfully delivered AI-powered solutions including LLM chatbots, drone surveillance systems, and IoT platforms used by 5,000+ users. Expert in Transformer architectures and fine-tuning techniques for real-world enterprise applications.
+
+SKILLS
+- AI/ML & Data Science: LLMs (GPT, Llama), Transformer Architecture, LangChain, HuggingFace, Fine-tuning, Generative AI, CNN, RNN, NLP, Scikit-learn, Pandas, NumPy, TensorFlow, PyTorch, Keras, OpenCV.
+- Data Processing: Data Collection, Cleaning, Feature Engineering, SQL, NoSQL (MongoDB, PostgreSQL).
+- Backend & Deployment: Python (Flask, FastAPI, Django), Node.js, RESTful APIs, JWT, Docker, AWS, Vercel, CI/CD.
+- Frontend: ReactJS, TailwindCSS, JavaScript (ES6+), Streamlit.
+- IoT & Robotics: Drone Technology, ESP32/ESP8266, RFID, Sensor Integration, PCB Design.
+- Tools & DevOps: Git, Linux, Postman, Jupyter Notebook, Google Colab, VS Code.
+
+EXPERIENCE
+Full Stack & AI/IoT Intern | IndoNalandaTech
+January 2024 – July 2024 (Adjusted for realism)
+- Developed and deployed an AI-powered chatbot using LLMs and LangChain, fine-tuned on company-specific datasets to automate 80% of routine customer queries.
+- Engineered a real-time drone monitoring system integrating AI vision models for surveillance; optimized model inference for edge devices.
+- Architected a scalable exam portal using the MERN stack and Flask, handling data ingestion and automated grading for 5000+ users.
+- Implemented CI/CD pipelines for automated model deployment, reducing system downtime by 70%.
+
+Cybersecurity Intern | Ediglobe
+September 2024 – November 2024 (Adjusted for realism)
+- Performed vulnerability assessments and penetration testing on internal AI APIs to ensure secure data handling.
+- Implemented secure authentication protocols (HTTPS/JWT) and API hardening to protect sensitive user data.
+
+PROJECTS
+AI Chatbot for Enterprise (LLM & LangChain)
+- Built a Generative AI solution using HuggingFace Transformers and LangChain for RAG (Retrieval-Augmented Generation).
+- Performed data cleaning and preprocessing of unstructured company documents to improve retrieval accuracy.
+- Integrated the solution into a web interface via FastAPI, providing 24/7 automated support.
+
+Drone Monitoring & Predictive Analytics
+- Developed a surveillance system using Python and OpenCV for real-time object detection.
+- Collected and preprocessed telemetry data from IoT sensors to build a predictive flight safety model.
+- Designed a cloud-based dashboard for real-time data visualization and monitoring.
+
+HM NutriBox (Full-Stack Startup Project)
+- Developed a full-stack fruit delivery platform with subscription logic and secure payment integration.
+- Designed a responsive UI using ReactJS and TailwindCSS, ensuring seamless user experience across devices.
+
+RFID & GPS Smart Bus Management
+- Integrated Neo 6M GPS and RFID sensors with ESP32 to track student transit.
+- Developed a live map dashboard using Leaflet.js to provide real-time location updates.
+
+EDUCATION
+Bachelor of Technology in Computer Science | 2022 – 2026
+Swarnandhra College of Engineering & Technology, Narsapur | GPA: 7.25/10
+Relevant Coursework: Machine Learning, Deep Learning, Data Structures & Algorithms, Database Systems, Python, SQL.
+
+ACHIEVEMENTS
+- National Finalist: Selected for Smart India Hackathon (SIH) for an AI-integrated drone solution.
+- Leadership: Coordinator for Technical Quiz Program (100+ participants); Web Master for college technical events.
+- Technical Skill: Successfully re-engineered and repaired complex drone flight controllers at the college innovation lab.
+
+CERTIFICATIONS
+- Google AI/ML Virtual Internship (Eduskills)
+- Python Full Stack Developer (Eduskills)
